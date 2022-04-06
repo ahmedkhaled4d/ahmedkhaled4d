@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ahmed khaled</h1>
-<h3 align="center">Senior Software and cloud developer</h3>
+<h3 align="center">Senior NodeJS and cloud developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
