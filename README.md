@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm ahmed khaled</h1>
 <h3 align="center">Nodejs | React | Typescript | Cloud developer</h3>
+<p>**Not “just” a coder** — I am empowered and always thinking about client product value
+that we can bring and how to improve the experience of my customers even by not working
+as product development director.</p>
 <p>
 
-
-**AREAS OF EXPERTISE**: Typescript / NodeJS, Serverless, Backend API development , building Dashboards with ElasticSearch stack, fintech apps, SaaS platforms, Geolocation Apps, blockchain technology ,ERP functions.
+**AREAS OF EXPERTISE**: Typescript / NodeJS, Typescript, React JS, Material UI, ElasticSearch, fintech apps, SaaS platforms, Geolocation Apps, Blockchain technology ,Web3,Decentralized Finance (Defi) | NFTs, AWS/GCP cloud development.
 
 </p>
 <h3 align="left">Connect with me:</h3>
