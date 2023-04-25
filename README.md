@@ -3,7 +3,7 @@
 <p>
 
 
-**AREAS OF EXPERTISE**: Typescript / NodeJS, Serverless, Backend API development , building Dashboards with ElasticSearch stack, fintech apps, SaaS platforms, Geolocation Apps, ERP functions.
+**AREAS OF EXPERTISE**: Typescript / NodeJS, Serverless, Backend API development , building Dashboards with ElasticSearch stack, fintech apps, SaaS platforms, Geolocation Apps, blockchain technology ,ERP functions.
 
 </p>
 <h3 align="left">Connect with me:</h3>
