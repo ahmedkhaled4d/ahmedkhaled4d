@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ahmed khaled</h1>
 <h3 align="center">Nodejs | React | Typescript | Cloud developer</h3>
-<p>**Not “just” a coder** — I am empowered and always thinking about client product value
+<p> **Not “just” a coder** — I am empowered and always thinking about client product value
 that we can bring and how to improve the experience of my customers even by not working
 as product development director.</p>
 <p>
