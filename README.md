@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm ahmed khaled</h1>
-<h3 align="center">Nodejs | React | Typescript | Cloud developer</h3>
+<h3 align="center">Principal Software Engineer | Cloud developer</h3>
 <p> 
 
-**Not just a coder** — I am empowered and always thinking about client product value
-that we can bring and how to improve the experience of my customers even by not working
-as product development director.</p>
+**A Principal Software Engineer** — high-ranking, experienced professional in the field of software engineering. They typically have several years of experience and have demonstrated a deep understanding of software development, architecture, and engineering principles.</p>
 <p>
 
 **AREAS OF EXPERTISE**: Typescript / NodeJS, Typescript, React JS, Material UI, ElasticSearch, fintech apps, SaaS platforms, Geolocation Apps, Blockchain technology ,Web3,Decentralized Finance (Defi) | NFTs, AWS/GCP cloud development.
