@@ -2,10 +2,13 @@
 <h3 align="center">Principal Software Engineer | Cloud developer</h3>
 <p> 
 
-**A Principal Software Engineer** — high-ranking, experienced professional in the field of software engineering. They typically have several years of experience and have demonstrated a deep understanding of software development, architecture, and engineering principles.</p>
+**A Principal Software Engineer** — high-ranking, experienced professional in the field of software engineering.Enthusiastic and skilled Full Stack TypeScript Engineer with 7 years of experience in
+designing, developing, and deploying web applications. Proficient in both frontend and
+backend technologies, adept at collaborating with cross-functional teams, and
+passionate about delivering high-quality software solutions.</p>
 <p>
 
-**AREAS OF EXPERTISE**: Typescript / NodeJS, Typescript, React JS, LLms , prompet engineering , ElasticSearch, fintech apps, SaaS platforms, Geolocation Apps, Blockchain technology ,Web3,Decentralized Finance (Defi) | NFTs, AWS/GCP cloud development.
+**AREAS OF EXPERTISE**: Typescript / NodeJS, Typescript, React JS, LLms , OWASP , OpenVAS ,Web Application Security , ElasticSearch, SaaS platforms, Geolocation Apps, Blockchain technology ,Web3,Decentralized Finance (Defi) | NFTs, AWS/GCP.
 
 </p>
 <h3 align="left">Connect with me:</h3>
